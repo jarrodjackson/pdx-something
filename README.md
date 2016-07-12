@@ -17,4 +17,3 @@ Pdx places named something and/n/&amp; something
 * salt and straw
 * swank & swine
 * cheese & crack
-
